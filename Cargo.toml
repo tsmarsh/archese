@@ -1,0 +1,5 @@
+[package]
+
+name = "archese"
+version = "0.0.1"
+authors = [ "Tom Marsh <ts.marsh@gmail.com>" ]
